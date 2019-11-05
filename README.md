@@ -1,2 +1,2 @@
 # Data-Science-ML
-It caintains complete code and explanation of seaborn which is very powerfull library in python..!
+It caintains complete code of Data Science & Machine learning using Python..!
