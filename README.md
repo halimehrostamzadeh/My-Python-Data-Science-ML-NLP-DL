@@ -4,4 +4,3 @@
  2. Data science by using various powerfull libraries of Python.
  3. Machine Learning codes using Python.
  4. Projects.
- Happy Learning..:)
