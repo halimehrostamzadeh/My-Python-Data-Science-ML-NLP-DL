@@ -4,6 +4,7 @@
  2. Data science by using various powerfull libraries of Python.
  3. Machine Learning | Natural Language Processing | Deep Learning codes using Python.
  4. Projects.
+ 5. GUI using Tkinter ( Projects included ).
 
 
 Find Me On :
